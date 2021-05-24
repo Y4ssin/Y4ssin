@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Y4ssin
-- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on any future projects
 - 📫 How to reach me : yassin.qaidi@gmail.com
 
 <!---
